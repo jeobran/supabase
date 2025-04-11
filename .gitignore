@@ -1,0 +1,7 @@
+# Supabase local dev containers and generated files
+.docker/
+.env
+volumes/
+logs/
+supabase/config.toml
+.supabase/
